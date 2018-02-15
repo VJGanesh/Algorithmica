@@ -12,7 +12,7 @@ namespace ReturnValueFromProcess
         static int Main(string[] args)
         {
             Thread.Sleep(5000);
-            return 25;
+            return 30;
         }
     }
 }
